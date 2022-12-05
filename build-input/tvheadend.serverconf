@@ -1,0 +1,10 @@
+# hostname or ip address of tvheadend server (default: "localhost")
+TVH_HOST="localhost"
+# port of tvheadend API (default: 9981)
+TVH_PORT="9981"
+# tvheadend user name
+TVH_USER="admin"
+# tvheadend password of above user
+TVH_PASS="admin"
+# tvheadend http_root setting
+TVH_HTTP_ROOT=""
